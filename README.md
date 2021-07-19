@@ -1,0 +1,4 @@
+# xycar_parking_sim
+
+This program passes all four test cases in the xycar parking simulator.
+It uses an algorithm based on data returned from the simulator's AR tag.
