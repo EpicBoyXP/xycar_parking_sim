@@ -5,4 +5,4 @@ It uses an algorithm based on data returned from the simulator's AR tag.
 
 https://www.youtube.com/watch?v=pmz44H6KHyQ
 
-![](https://imgur.com/w8WcZqd)
+![](https://i.imgur.com/w8WcZqd.png)
